@@ -5,7 +5,7 @@ VERSION
         1.0
 
 AUTHOR
-       Shirley        
+       Shirley Alquicira        
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
